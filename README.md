@@ -70,6 +70,10 @@ Daniel Hernandez - [Gmail](danielhernandez@comfortorder.com)
 ## Resources
 
 - [Sketch](https://www.sketch.com/team/joma/shares)
+- [Zeplin](https://app.zeplin.io/projects)
+
+
+
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [Img Shields](https://shields.io)
 - [GitHub Pages](https://pages.github.com)
