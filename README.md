@@ -83,6 +83,7 @@ Daniel Hernandez - [Gmail](danielhernandez@comfortorder.com)
 <!-- RESOURCES -->
 
 # Resources
+- [Zeplin demo](https://zeplin.io/)
 
 - [Sketch](https://www.sketch.com/team/joma/shares)
 - [Zeplin](https://app.zeplin.io/projects)
